@@ -1,0 +1,10 @@
+{
+    "elements": {
+        "toolbar": {}
+    },
+    "attributes": {
+        "ng-app": {
+            "context": "html"
+        }
+    }
+}
